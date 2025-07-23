@@ -12,7 +12,7 @@ A simple, responsive, and interactive password generator built using HTML, CSS, 
 💡 Clean and responsive UI with subtle styling
 ✅ Error handling for invalid input or unselected character types
 
-  How It Works
+  How It Works:
 The program uses JavaScript to dynamically generate a password based on the user's selections. It collects selected character types, randomly selects characters from those sets, and then builds a password of the specified length.
 
 The core logic is handled by the generatePassword() function, which:
